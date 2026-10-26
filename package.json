@@ -1,0 +1,12 @@
+{
+  "name": "playwright-data-qa-automation",
+  "version": "1.0.0",
+  "description": "Data-driven Playwright tests for a demo task board application",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1"
+  }
+}
